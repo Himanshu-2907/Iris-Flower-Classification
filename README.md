@@ -56,7 +56,7 @@ The dataset is balanced with 50 samples for each species and is widely used for 
    ```bash
    python scripts/iris_classification.py
    ```
-
+   Note: This has to be done in Virtual Environment
 ---
 
 ## Usage
