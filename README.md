@@ -35,9 +35,8 @@ The dataset is balanced with 50 samples for each species and is widely used for 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/Iris-Flower-Classification.git
+   git clone https://github.com/Himanshu-2907/Iris-Flower-Classification.git
    cd Iris-Flower-Classification
-Here’s the `README.md` file with a clickable Table of Contents formatted for GitHub:
 
 
 2. Install required dependencies:
@@ -71,7 +70,7 @@ Here’s the `README.md` file with a clickable Table of Contents formatted for G
 
 ## Results
 
-The Logistic Regression model achieved an accuracy of **\~100%** on the test set. This high performance demonstrates the model's ability to distinguish between the three Iris species effectively.
+The Logistic Regression model achieved an accuracy of **\~96.88%** on the test set. This high performance demonstrates the model's ability to distinguish between the three Iris species effectively.
 
 ---
 
@@ -93,5 +92,4 @@ Contributions are welcome! If you find any issues or have suggestions for improv
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-```
 
